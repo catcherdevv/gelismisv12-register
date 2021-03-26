@@ -1,0 +1,65 @@
+{
+"sunucuIsmi" : "1987s of ryú",
+"sunucuUfakIsim": "",
+"Tag": "✩",
+"IkinciTag": "✩ ",
+"sunucuDavetLinki": "discord.gg/ryu",
+"embedUfakResim": "https://cdn.discordapp.com/emojis/817874769290199110.png?v=1",
+"Kanallar": {
+    "kayitSonrasi": "824638009637994576",
+    "supheliLogKanali": "824638052931862549",
+    "chatKanali": "824638025891840010",
+    "kurallarKanal": "818098076949413932",
+    "mesajLogKanali": "824638057041887242",
+    "sesLogKanali": "818086756460003339"
+},
+
+"hosgeldinSistemi": {
+    "webhookID": "824645966786461737",
+    "webhookTOKEN": "rrQ7PXNy5QXzumfq5xsBRGG1H1zvpG_VM53566VedZuPgxvXxS60aWSbzD8Krmfl8qKB"
+},
+"RolLog": {
+    "webhookID":"824645966786461737",
+    "webhookTOKEN":"rrQ7PXNy5QXzumfq5xsBRGG1H1zvpG_VM53566VedZuPgxvXxS60aWSbzD8Krmfl8qKB"
+},
+
+"Roller": {
+    "botcuRolu": "824637937340776468",
+    "kurucuRolu": "824637909625470986",
+    "altKurucuRolu": "824637913484099584",
+    "yonetimRolu": "824637917683122256",
+    "boosterRolu": "739793401133793281",
+    "supheliRolu": "824637928465891359",
+    "istatistikciRolleri": ["736188913613275196"],
+    "botCommand": ["824637934586167347", "824637913484099584"],
+    "vipRolu": "824637939127812096"
+},
+"Yetenek": {
+    "vokalRolu": "822767042204794891",
+    "müzisyenRolu": "822539047951925268",
+    "telliRolu": "822539047951925268",
+    "yazılımcıRolu": "822539047951925268",
+    "tasarımcıRolu": "822539047951925268",
+    "ressamRolu": "822539047951925268",
+    "şairRolu": "822539047951925268"
+},
+"kayıtRolleri": {
+    "kayıtsızYapanRoller": ["824637934028062720"],
+    "kayıtYapanRoller": ["824637934028062720", "824637913484099584"],
+    "kayıtsızRolleri": ["824637943883890728", "824637944475156512"],
+    "tagRolu": "824637936435331112",
+    "erkekRolleri": ["824637940658602004", "824637943137173504"],
+    "kadinRolleri": ["824637942445899816", "824637941245542461"]
+},
+
+"Emojiler": {
+    "tag": "766722887650246706",
+    "Onay": "824651968491683850",
+    "Iptal": "824651967405752331",
+    "hosgeldinGif1": "766722887650246706",
+    "hosgeldinGif2": "766722887650246706",
+    "hosgeldinGif3": "766722887650246706",
+    "hosgeldinGif4": "766722887650246706",
+    "hosgeldinGif5": "766722887650246706"
+}
+}
