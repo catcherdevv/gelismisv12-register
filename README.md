@@ -1,6 +1,5 @@
 # gelismisv12-register
 
-- Serendia squad için geliştirilip paylaşılmıştır, hata çıkması durumunda https://discord.gg/serendia
 - ayar.json/veri.json'u doldurmanız yeterlidir.
 - Parayla başkalarına yapmaya, satmaya veya kendi yapınızmış gibi davranış sergilemezsiniz diye umuyorum.
 
